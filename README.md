@@ -2,9 +2,6 @@
 
 A complete e-commerce app built on the MERN stack that sells developer books.
 
-This project is cloned from an existing project which exists in this repository:
-- https://github.com/Anantm007/Dev-Bookstore/tree/master
-
 ## New Features
 - Users will get recommendations while searching a book.
 - Users can open pdf of a book if available.
